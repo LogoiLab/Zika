@@ -1,0 +1,6 @@
+[submodule "zika"]
+	path = zika
+	url = https://github.com/cmrivers/zika.git
+[submodule "zika-data"]
+	path = buzzfeed_zika/zika-data
+	url = https://github.com/BuzzFeedNews/zika-data
