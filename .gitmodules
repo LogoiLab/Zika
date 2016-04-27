@@ -3,6 +3,6 @@
 	url = https://github.com/BuzzFeedNews/zika-data
 [submodule "zika"]
 
-	path = zika
+	path = cdc_zika/zika
 
 	url = http://github.com/cdcepi/zika.git
