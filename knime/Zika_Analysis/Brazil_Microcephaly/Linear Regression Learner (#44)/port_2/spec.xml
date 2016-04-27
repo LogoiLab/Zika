@@ -12,7 +12,7 @@
 </config>
 <config key="column_domain">
 <config key="possible_values">
-<entry key="array-size" type="xint" value="25"/>
+<entry key="array-size" type="xint" value="24"/>
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
@@ -34,43 +34,43 @@
 <config key="3">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Ceara"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Bahia"/>
 </config>
 </config>
 <config key="4">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Distrito_Federal"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Ceara"/>
 </config>
 </config>
 <config key="5">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Espirito_Santo"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Distrito_Federal"/>
 </config>
 </config>
 <config key="6">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Goias"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Espirito_Santo"/>
 </config>
 </config>
 <config key="7">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Maranhao"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Goias"/>
 </config>
 </config>
 <config key="8">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Mato_Grosso"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Maranhao"/>
 </config>
 </config>
 <config key="9">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Mato_Grosso_do_Sul"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Mato_Grosso"/>
 </config>
 </config>
 <config key="10">
@@ -82,82 +82,76 @@
 <config key="11">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Parana"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Para"/>
 </config>
 </config>
 <config key="12">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Pernambuco"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Paraiba"/>
 </config>
 </config>
 <config key="13">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Piaui"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Parana"/>
 </config>
 </config>
 <config key="14">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Rio_Grande_do_Norte"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Piaui"/>
 </config>
 </config>
 <config key="15">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Rio_Grande_do_Sul"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Rio_Grande_do_Norte"/>
 </config>
 </config>
 <config key="16">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Rio_de_Janeiro"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Rio_Grande_do_Sul"/>
 </config>
 </config>
 <config key="17">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Rondonia"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Rio_de_Janeiro"/>
 </config>
 </config>
 <config key="18">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Roraima"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Rondonia"/>
 </config>
 </config>
 <config key="19">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Santa_Catarina"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Sao_Paulo"/>
 </config>
 </config>
 <config key="20">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Sao_Paulo"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Sergipe"/>
 </config>
 </config>
 <config key="21">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Sergipe"/>
+<entry key="StringCell" type="xstring" value="location=Brazil-Tocantins"/>
 </config>
 </config>
 <config key="22">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="location=Brazil-Tocantins"/>
-</config>
-</config>
-<config key="23">
-<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-<config key="org.knime.core.data.def.StringCell">
 <entry key="StringCell" type="xstring" value="Prediction (value)"/>
 </config>
 </config>
-<config key="24">
+<config key="23">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
 <entry key="StringCell" type="xstring" value="Intercept"/>
@@ -179,13 +173,13 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="-8.926193117986259E-14"/>
+<entry key="DoubleCell" type="xdouble" value="-7.0000000000000036"/>
 </config>
 </config>
 <config key="upper_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="259.75000000000006"/>
+<entry key="DoubleCell" type="xdouble" value="381.0000000000001"/>
 </config>
 </config>
 </config>
@@ -203,13 +197,13 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="78.34936563392264"/>
+<entry key="DoubleCell" type="xdouble" value="22.0157193420553"/>
 </config>
 </config>
 <config key="upper_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="135.70508201874497"/>
+<entry key="DoubleCell" type="xdouble" value="49.228645022392605"/>
 </config>
 </config>
 </config>
@@ -227,13 +221,13 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="-6.577641002975322E-16"/>
+<entry key="DoubleCell" type="xdouble" value="-0.1704589657701472"/>
 </config>
 </config>
 <config key="upper_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="2.7069139000680202"/>
+<entry key="DoubleCell" type="xdouble" value="7.739396439343292"/>
 </config>
 </config>
 </config>
@@ -251,13 +245,13 @@
 <config key="lower_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="0.010545558658594079"/>
+<entry key="DoubleCell" type="xdouble" value="4.357901151053056E-9"/>
 </config>
 </config>
 <config key="upper_bound">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
 <config key="org.knime.core.data.def.DoubleCell">
-<entry key="DoubleCell" type="xdouble" value="1.0"/>
+<entry key="DoubleCell" type="xdouble" value="0.9842964952276994"/>
 </config>
 </config>
 </config>

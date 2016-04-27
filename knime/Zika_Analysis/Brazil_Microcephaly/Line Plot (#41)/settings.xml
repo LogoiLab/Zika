@@ -24,11 +24,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.2.v201603300837"/>
+<entry key="node-bundle-version" type="xstring" value="3.0.0.0049157"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.2.v201603311235"/>
+<entry key="node-feature-version" type="xstring" value="3.0.0.0049172"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Line Plot"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -36,6 +36,6 @@
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="c936d014-2d6f-49fb-a87d-fce11e4fe53c"/>
+<entry key="file_store_id" type="xstring" value="5b0a6979-2429-4e46-8927-f5bc5d67be95"/>
 </config>
 </config>

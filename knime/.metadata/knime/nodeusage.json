@@ -1,0 +1,18 @@
+
+{
+    "version":"3.0.0.0049163",
+    "created":"2016-04-27 12:22",
+    "nodestats":{
+        "org.knime.base.node.io.csvreader.CSVReaderNodeModel:CSV Reader":{
+            "nrexecs":1,
+            "exectime":78,
+            "nrcreated":0,
+            "successor":"n/a"
+        }
+    },
+    "uptime":101012,
+    "launches":1,
+    "timeSinceLastStart":101012,
+    "crashes":0,
+    "properlyShutDown":false
+}

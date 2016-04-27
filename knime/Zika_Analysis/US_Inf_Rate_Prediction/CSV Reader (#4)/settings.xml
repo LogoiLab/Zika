@@ -6,7 +6,7 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="url" type="xstring" value="C:\Users\cbax_\Documents\Zika\cdc_zika\United_States\CDC_Report\data\CDC_Report_Total.csv"/>
+<entry key="url" type="xstring" value="X:\Projects\Zika\cdc_zika\zika\United_States\CDC_Report\data\CDC_Report_Total.csv"/>
 <entry key="colDelimiter" type="xstring" value=","/>
 <entry key="rowDelimiter" type="xstring" value="%%00010"/>
 <entry key="quote" type="xstring" value="&quot;"/>
@@ -16,7 +16,6 @@
 <entry key="supportShortLines" type="xboolean" value="false"/>
 <entry key="limitRowsCount" type="xlong" value="-1"/>
 <entry key="skipFirstLinesCount" type="xint" value="-1"/>
-<entry key="characterSetName" type="xstring" isnull="true" value=""/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="EXECUTED"/>
@@ -25,11 +24,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.2.v201603300837"/>
+<entry key="node-bundle-version" type="xstring" value="3.0.0.0049157"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.2.v201603311235"/>
+<entry key="node-feature-version" type="xstring" value="3.0.0.0049172"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="CSV Reader"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -45,6 +44,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="7af9a91a-04cf-4b12-a56f-2e0131b42c6f"/>
+<entry key="file_store_id" type="xstring" value="4d1d3744-bb9f-4bcb-9c18-381b09771e78"/>
 </config>
 </config>

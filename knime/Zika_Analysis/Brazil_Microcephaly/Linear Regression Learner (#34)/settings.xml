@@ -53,11 +53,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.2.v201603300837"/>
+<entry key="node-bundle-version" type="xstring" value="3.0.0.0049157"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.2.v201603311235"/>
+<entry key="node-feature-version" type="xstring" value="3.0.0.0049172"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Linear Regression Learner"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -76,12 +76,12 @@
 <entry key="index" type="xint" value="2"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 27, Cols: 5"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 25, Cols: 5"/>
 <entry key="port_dir_location" type="xstring" value="port_2"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="7c9b64e9-0adb-445e-84e5-b97ccdc6945a"/>
+<entry key="file_store_id" type="xstring" value="6d15743f-e361-4017-9fa0-39c817bf2ce2"/>
 </config>
 </config>

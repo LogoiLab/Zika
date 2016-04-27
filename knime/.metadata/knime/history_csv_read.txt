@@ -1,0 +1,3 @@
+X:\Projects\Zika\cdc_zika\zika\Brazil\COES_Microcephaly\data\COES_Microcephaly-2016-04-16.csv
+X:\Projects\Zika\cdc_zika\zika\Brazil\COES_Microcephaly\data\COES_Microcephaly-2016-02-13.csv
+X:\Projects\Zika\cdc_zika\zika\United_States\CDC_Report\data\CDC_Report_Total.csv

@@ -50,18 +50,18 @@
 <entry key="state" type="xstring" value="EXECUTED"/>
 <config key="nodecontainer_message">
 <entry key="type" type="xstring" value="WARNING"/>
-<entry key="message" type="xstring" value="The following columns are redundant and will not contribute to the model: Prediction (value)^6. Coefficient statistics will not be accurate and contain missing information."/>
+<entry key="message" type="xstring" value="The following columns are redundant and will not contribute to the model: time_period^6. Coefficient statistics will not be accurate and contain missing information."/>
 </config>
 <entry key="factory" type="xstring" value="org.knime.base.node.mine.regression.linear2.learner.LinReg2LearnerNodeFactory2"/>
 <entry key="node-name" type="xstring" value="Linear Regression Learner"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-bundle-version" type="xstring" value="3.1.2.v201603300837"/>
+<entry key="node-bundle-version" type="xstring" value="3.0.0.0049157"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Core"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
-<entry key="node-feature-version" type="xstring" value="3.1.2.v201603311235"/>
+<entry key="node-feature-version" type="xstring" value="3.0.0.0049172"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Linear Regression Learner"/>
 <entry key="hasContent" type="xboolean" value="true"/>
@@ -80,12 +80,12 @@
 <entry key="index" type="xint" value="2"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 25, Cols: 5"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 24, Cols: 5"/>
 <entry key="port_dir_location" type="xstring" value="port_2"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="db083e93-b2d8-42fa-b5a1-a964ddeed328"/>
+<entry key="file_store_id" type="xstring" value="4d93a3d3-7881-47b9-8081-617d50b2f751"/>
 </config>
 </config>
