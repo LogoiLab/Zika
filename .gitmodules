@@ -1,6 +1,3 @@
-[submodule "zika-data"]
-	path = data/buzzfeed_zika/zika-data
-	url = https://github.com/BuzzFeedNews/zika-data
 [submodule "data/cdc_zika"]
 	path = data/cdc_zika
 	url = https://github.com/cdcepi/zika
