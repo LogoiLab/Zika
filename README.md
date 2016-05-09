@@ -15,3 +15,9 @@ Data Wishlist:
 
 ---
 If you would like to add you own analysis please fork this repo and submit a pull request.
+
+Contributors
+-
+
+LogoiLab
+montecodei
